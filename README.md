@@ -7,7 +7,9 @@ Following are the generated result with training images for corresponding prompt
 
 <h3>Generated Images</h3>
 
-![Screenshot 2024-08-01 193653](https://github.com/user-attachments/assets/3c9699a7-f6fe-4561-aa50-c84bd0acacf1)
+![Screenshot 2024-08-01 193653](https://github.com/user-attachments/assets/894f8ac3-6a4d-4934-ac30-64b85c8cb1ee)
 <h3>Training Images</h3>
 
-![Screenshot 2024-08-01 193701](https://github.com/user-attachments/assets/2bc81fe2-c9bb-47f1-a1d6-cb75acfc26e3)
+
+![Screenshot 2024-08-01 193701](https://github.com/user-attachments/assets/909491e5-cd3c-474b-9562-ee2c7bc5e393)
+
